@@ -1,4 +1,4 @@
-# readings
+# Readings
 Readings list of Essence research
 
 Andreas, C. C., & Widyani, Y. 2019. Essence-based Method Chunk Composition. Proc. Int. Conf. Data Softw. Eng., ICoDSE. Presented at the Proceedings of 2019 International Conference on Data and Software Engineering, ICoDSE 2019, Institute of Electrical and Electronics Engineers Inc. https://doi.org/10.1109/ICoDSE48700.2019.9092736.
